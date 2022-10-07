@@ -17,3 +17,5 @@ This is another page
 ### Ch2, Part 1
 
 What to say? it is an absolute blast!
+
+[Can you go here?] -> Chapter1
