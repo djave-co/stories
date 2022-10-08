@@ -1,6 +1,4 @@
-=Chapter1
-
-# Story title
+# Story title<!-- {id: "title"} -->
 
 ## Chapter 1
 
