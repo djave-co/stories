@@ -2,6 +2,9 @@
 `var mana = 10`
 `var wis = 10`
 
+
+<!-- BEGIN -->
+
 # Story title<!-- {id: "title"} -->
 
 ## Chapter 1<!-- {id: "Chapter1"} -->
