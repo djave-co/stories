@@ -1,3 +1,7 @@
+`var health = 10`
+`var mana = 10`
+`var wis = 10`
+
 # Story title<!-- {id: "title"} -->
 
 ## Chapter 1<!-- {id: "Chapter1"} -->
