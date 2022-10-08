@@ -1,7 +1,9 @@
 # Story title<!-- {id: "title"} -->
 
-## Chapter 1
+## Chapter 1<!-- {id: "Chapter1"} -->
 
+
+<!-- This is actually a normal comment -->
 ### Part 1
 
 This is the content, it goes here like this. It could be much, much better, but for now, this is totally fine.
