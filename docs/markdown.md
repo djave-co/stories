@@ -7,7 +7,7 @@
 
 # Story title<!-- {id: "title"} -->
 
-## <a name="Chapter1">Chapter 1<!-- {id: "Chapter1"} -->
+## <a name="Chapter1"></a> Chapter 1<!-- {id: "Chapter1"} -->
 
 
 <!-- This is actually a normal comment -->
@@ -48,3 +48,4 @@ What to say? it is an absolute blast!
 
 
 [Can you go here?] -> Chapter1
+[Chapter 1](#Chapter1).
