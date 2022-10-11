@@ -9,7 +9,6 @@
 
 ## <a name="Chapter1"></a> Chapter 1<!-- {id: "Chapter1"} -->
 
-
 <!-- This is actually a normal comment -->
 ### Part 1 <a name="head1234"></a>
 
@@ -24,7 +23,7 @@ This is the content, it goes here like this. It could be much, much better, but 
 
 This is another page
 
-## Chapter 2 is better than one
+## <a name="Chapter2"></a> Chapter 2 is better than one
 
 ### Ch2, Part 1
 
@@ -56,5 +55,5 @@ What to say? it is an absolute blast!
 - [Chapter 1](#Chapter1)(#Chapter2).
 - [Chapter 1](#Chapter1) `health += 3`
 - Chapter 1
-- - [Pass](#Chapter1)
-- - [Fail](#Chapter2)
+  - [Pass](#Chapter1)
+  - [Fail](#Chapter2)
