@@ -17,6 +17,11 @@ This is the content, it goes here like this. It could be much, much better, but 
 
 ### Part 2
 
+<hr>
+<hr />
+<hr >
+<hr/>
+
 This is another page
 
 ## Chapter 2 is better than one
