@@ -51,7 +51,7 @@ What to say? it is an absolute blast!
 
 
 
-- [Can you go here?](#Chapter2)
+- [Can you go here?](#Chapter2) `mana += 5` `str -= 1`
 - [Chapter 1](#Chapter1)(#Chapter2).
 - [Chapter 1](#Chapter1) `health += 3`
 - Chapter `roll(str, 15)`
