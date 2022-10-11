@@ -54,6 +54,6 @@ What to say? it is an absolute blast!
 - [Can you go here?](#Chapter2)
 - [Chapter 1](#Chapter1)(#Chapter2).
 - [Chapter 1](#Chapter1) `health += 3`
-- Chapter 1
+- Chapter `roll(str, 15)`
   - [Pass](#Chapter1)
   - [Fail](#Chapter2)
