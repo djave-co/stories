@@ -24,7 +24,7 @@ something else?
 
 `else`
 
-- [Can you go here?](Chapter1)
+- [Can you go here?](#Chapter1)
 
 `endif`
 
