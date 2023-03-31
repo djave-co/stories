@@ -71,7 +71,7 @@ Breath weapon caster level check character cover deal damage difficulty class do
 
 
 - [Can you go here?](#Chapter2) `mana += 5` `str -= 1`
-- [Chapter 1](#Chapter1)(#Chapter2).
+- [Story title](#story-title)
 - [Chapter 1](#Chapter1) `health += 3`
 - Chapter `roll(str, 15)`
   - [Pass](#Chapter1)
