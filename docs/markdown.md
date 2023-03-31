@@ -1,17 +1,18 @@
+Better content. Better title.
+
 `var health = 10`
 `var mana = 10`
 `var wis = 10`
 
-
 <!-- BEGIN -->
 
-# Story title<!-- {id: "title"} -->
+# Story title
 
-## <a name="Chapter1"></a> Chapter 1<!-- {id: "Chapter1"} -->
+## Chapter 1
 
 <!-- This is actually a normal comment -->
-### Part 1 <a name="head1234"></a>
 
+### Part 1
 
 `if health > 4`
 you look healthy
@@ -32,7 +33,7 @@ This is the content, it goes here like this. It could be much, much better, but 
 
 What to say? it is an absolute blast!
 
-something else? 
+something else?
 
 `else`
 
@@ -47,7 +48,7 @@ This is another page
 ### Ch2, Part 1
 
 What to say? it is an absolute blast!
-  
+
 Chaos domain circumstance bonus darkness domain diminutive drow domain enchantment improved evasion law domain luck domain negative energy poison size modifier swallow whole thrown weapon turn undead. Change shape cold immunity constrict dazed dispel domain spell effective character level fighter figment subschool huge illusion magical beast type natural weapon player character powerful charge reptilian subtype staggered take 10.
 
 5-foot step bolster undead character class confused copper piece difficult terrain direct a spell energy damage environment extraplanar fey type fly gnome domain hit die initiative natural nobility domain nonabilities reach weapon regeneration round saving throw sorcerer storm domain vermin type.
@@ -68,10 +69,8 @@ Bard bolster undead dexterity double weapon flat-footed fortitude save insight b
 
 Breath weapon caster level check character cover deal damage difficulty class dodge bonus elemental type full normal hit points heat dangers melee miniature figure outsider type range penalty sorcerer special ability spell domain tiny touch attack.
 
-
-
 - [Can you go here?](#Chapter2) `mana += 5` `str -= 1`
-- [Story title](#story-title)
+- [Chapter 1](#Chapter1)(#Chapter2).
 - [Chapter 1](#Chapter1) `health += 3`
 - Chapter `roll(str, 15)`
   - [Pass](#Chapter1)
