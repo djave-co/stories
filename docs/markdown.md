@@ -1,4 +1,4 @@
-Better content. Better title.
+The first line of text is the story / browser title
 
 `var health = 10`
 `var mana = 10`
@@ -6,9 +6,9 @@ Better content. Better title.
 
 <!-- BEGIN -->
 
-# Story title
+# Act 1: Unto the void
 
-## Chapter 1
+## <a name="Chapter1"></a> Chapter 1
 
 <!-- This is actually a normal comment -->
 
@@ -26,6 +26,13 @@ not looking so great
 `endif`
 
 This is the content, it goes here like this. It could be much, much better, but for now, this is totally fine.
+
+- [Chapter 2, with mana minus health](#Chapter2) `mana += 5` `str -= 1`
+- [Chapter 1](#Chapter1)
+- [Add health](#Chapter1) `health += 3`
+- Roll a dice `roll(str, 15)`
+  - [Pass](#Chapter1)
+  - [Fail](#Chapter2)
 
 ### Part 2
 
@@ -69,9 +76,10 @@ Bard bolster undead dexterity double weapon flat-footed fortitude save insight b
 
 Breath weapon caster level check character cover deal damage difficulty class dodge bonus elemental type full normal hit points heat dangers melee miniature figure outsider type range penalty sorcerer special ability spell domain tiny touch attack.
 
-- [Can you go here?](#Chapter2) `mana += 5` `str -= 1`
-- [Chapter 1](#Chapter1)(#Chapter2).
-- [Chapter 1](#Chapter1) `health += 3`
-- Chapter `roll(str, 15)`
-  - [Pass](#Chapter1)
-  - [Fail](#Chapter2)
+# Act 2: Beyond the unknown
+
+## Chapter 17
+
+### Page x
+
+What the heck was that?!
