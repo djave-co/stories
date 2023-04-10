@@ -5,9 +5,9 @@ Just actions.
 
 # Act 1: The beginning
 
-## Chapter 1 <span id="Chapter1" />
+## Chapter 1 <a name="Chapter1" />
 
-### Page 1 <span id="Chapter2" />
+### Page 1 <a name="Chapter2" />
 
 `if health > 4`
 If this
